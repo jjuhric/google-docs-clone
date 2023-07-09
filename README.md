@@ -8,11 +8,11 @@ The following is a google docs clone copied from WebDevSimplified. It uses the f
 * Quill -- used to create the editor
 
 # Resources
-https://youtu.be/iRaelG7v0OU
-https://quilljs.com/
-https://socket.io/
-https://www.mongodb.com/
-https://mongoosejs.com/
+* WebDevSimplied Tutorial - https://youtu.be/iRaelG7v0OU
+* Quill - https://quilljs.com/
+* Socket.io - https://socket.io/
+* MongoDB - https://www.mongodb.com/
+* Mongoose - https://mongoosejs.com/
 
 # Next Steps
 * Add Authorization / Login functionality.
